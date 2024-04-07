@@ -57,13 +57,13 @@ global.limitawal = {
    free: 100
 }
 
-global.adventureRPG = 'https://telegra.ph/file/ff94536d69e0f4f3e7b54.jpg'
-global.bankRPG = 'https://telegra.ph/file/ce47dca98cfdb34162abb.png'
-global.bansosRPG = 'https://telegra.ph/file/646af753f38fbf7bbbccc.jpg'
-global.bansosRPG_ = 'https://telegra.ph/file/ba18a18aac022170c8056.jpg'
-global.berburuRPG = 'https://telegra.ph/file/95a202f631ab7172c3f25.jpg'
-global.inventoryRPG = 'https://telegra.ph/file/507395e2edbd1d740a0fd.png'
-global.cooldownRPG = 'https://telegra.ph/file/5e1e191a47028d9648ffa.jpg'
+global.adventureRPG = 'https://sweezy-cursors.com/wp-content/uploads/cursor/dudu-bubu-playing-puzzles-animated/dudu-bubu-playing-puzzles-animated-custom-cursor.gif'
+global.bankRPG = 'https://i.pinimg.com/736x/f8/71/63/f871637bbd3603d4112c4a5ef39af9b7.jpg'
+global.bansosRPG = 'https://ih1.redbubble.net/image.5100371940.2179/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg'
+global.bansosRPG_ = 'https://image.spreadshirtmedia.com/image-server/v1/mp/products/T1459A839PA3861PT28D1048130024W7500H10000/views/1,width=1200,height=630,appearanceId=839,backgroundColor=F2F2F2/bubu-eating-cream-panda-bear-bubu-and-dudu-couple-sticker.jpg'
+global.berburuRPG = 'https://i.ibb.co/jr7pm7s/stream.jpg'
+global.inventoryRPG = 'https://ih1.redbubble.net/image.5149879216.9784/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg'
+global.cooldownRPG = 'https://i.ibb.co/brXvL4N/312610734-201475625680480-6377450030724337509-n.jpg'
 global.dailyRPG = 'https://telegra.ph/file/17e857848a3afdb1c4fd8.jpg'
 global.hourlyRPG = 'https://telegra.ph/file/bcabf71c0f56207d1629e.jpg'
 global.kandangRPG = 'https://telegra.ph/file/89c3b3ec69d373da8f64b.jpg'
